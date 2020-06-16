@@ -39,10 +39,10 @@ Plus many more. [Let us know how you're using Threat Personas](https://twitter.c
 
 You can find a selection of examples within the `persona` directory of this project.
 
- - Vladimir Starsky: Hacker for Hire
- - Leona Wolff: Organised crime boss turned cyber criminal
- - Bret Devlin: Thrill-seeking Red Teamer
- - Dimitra Contos: DevOps Engineer
+ - Vladimir Starsky: Hacker for Hire [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/vladimir-starsky--hacker-for-hire.md)
+ - Leona Wolff: Organised crime boss turned cyber criminal [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/leona-wolff--cyber-criminal.md)
+ - Bret Devlin: Thrill-seeking Red Teamer [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/bret-devlin--thrill-seeking-red-teamer.md)
+ - Dimitra Contos: DevOps Engineer [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/dimitra-contos--devops-engineer.md)
 
 
 ## Contributing
