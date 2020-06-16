@@ -26,10 +26,34 @@ Pick up and use these example personas within your own organisation!
 You may find some of the narratives, or characteristics, don't fit with your business operations and so you may find it beneficial to tailor them to your specific organisational environment.
 
 
+### Use cases
+
+ - Awareness campaigns
+ - Threat modelling
+ - Risk identification / assessment
+
+Plus many more. [Let us know how you're using Threat Personas](https://twitter.com/rto).
+
+
+## Personas
+
+You can find a selection of examples within the `persona` directory of this project.
+
+ - Vladimir Starsky: Hacker for Hire
+ - Leona Wolff: Organised crime boss turned cyber criminal
+ - Bret Devlin: Thrill-seeking Red Teamer
+ - Dimitra Contos: DevOps Engineer
+
+
 ## Contributing
 
 We welcome contributions to this collection. If you've created a new threat persona then please raise a PR.
 
+You can use tools, like [Name Generator](https://www.name-generator.org.uk/) and [Generated Photos](https://generated.photos), to help generate content for personas.
+
+## Disclaimer
+
+The personas here are fictitious and [any resemblance to real persons or other real-life entities is purely coincidental](https://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer).
 
 ## License
 
