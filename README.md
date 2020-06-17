@@ -37,12 +37,30 @@ Plus many more. [Let us know how you're using Threat Personas](https://twitter.c
 
 ## Personas
 
+### Persona definition
+
+A persona is comprised of the following components:
+
+ - **Name**: Humanise them with a name, optionally add a pithy headline 
+ - **Face**: A face helps bring them to life
+ - **Relationship**: Either `External` or `Internal`
+ - **Intent**: Either `Malicious` or `Non-Malicious`
+ - **Narrative**: Where you get to create their backstory and explain their history, location, motivations, desires, concerns, and more.
+ - **Attributes**:
+    - **Goals**: One of `Curiosity`, `Personal fame`, `Personal gain`, `National interests`, `Revenge`
+    - **Opportunity**: `Connected to the Internet`, `Physically nearby`, `Access to connected partner`, `Access to organisations`, `Access to specific network/system`
+    - **Skilss**: `No technical skills`, `End user`, `Power user`, `Developer`, `Researcher`
+    - **Knowledge**: `External to organisation`, `Ex-organisation insider`, `Organisation partner`, `Customer`, `Employee`, `Other insider`
+    - **Deterrability**: `Unconcerned criminal`, `Careful criminal`, `Careless law-abiding`, `Careful law-abiding`
+
+### Exiting personas
+
 You can find a selection of examples within the `persona` directory of this project.
 
- - Vladimir Starsky: Hacker for Hire [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/vladimir-starsky--hacker-for-hire.md)
- - Leona Wolff: Organised crime boss turned cyber criminal [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/leona-wolff--cyber-criminal.md)
- - Bret Devlin: Thrill-seeking Red Teamer [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/bret-devlin--thrill-seeking-red-teamer.md)
- - Dimitra Contos: DevOps Engineer [view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/dimitra-contos--devops-engineer.md)
+ - Vladimir Starsky: Hacker for Hire ([view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/vladimir-starsky--hacker-for-hire.md))
+ - Leona Wolff: Organised crime boss turned cyber criminal ([view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/leona-wolff--cyber-criminal.md))
+ - Bret Devlin: Thrill-seeking Red Teamer ([view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/bret-devlin--thrill-seeking-red-teamer.md))
+ - Dimitra Contos: DevOps Engineer ([view on GitHub](https://github.com/cydea/threat-personas/blob/master/persona/dimitra-contos--devops-engineer.md))
 
 
 ## Contributing
