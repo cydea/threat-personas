@@ -53,7 +53,7 @@ A persona is comprised of the following components:
     - **Knowledge**: `External to organisation`, `Ex-organisation insider`, `Organisation partner`, `Customer`, `Employee`, `Other insider`
     - **Deterrability**: `Unconcerned criminal`, `Careful criminal`, `Careless law-abiding`, `Careful law-abiding`
 
-### Exiting personas
+### Existing personas
 
 You can find a selection of examples within the `persona` directory of this project.
 
